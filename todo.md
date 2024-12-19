@@ -6,3 +6,6 @@
   * in qgis python console use sys.path and copy output
   * deactivate conda env and use conda-develop -n ENVNAME COPIED_PATH
   * voila qgis.core etc can be loaded
+
+## tips
+  * use shortnames to get around non-latin characters in path names... e.g. ONEDRI~1 
