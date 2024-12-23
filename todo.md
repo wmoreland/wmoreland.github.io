@@ -8,4 +8,5 @@
   * voila qgis.core etc can be loaded
 
 ## tips
+  * add variable QGIS_PLUGINPATH (append) to QGIS enivornment e.g. C:\Users\williammo\ONEDRI~1\Documents\GitHub\qgis-skjalftalisa
   * use shortnames to get around non-latin characters in path names... e.g. ONEDRI~1 
